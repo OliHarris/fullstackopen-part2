@@ -18,7 +18,7 @@ Will perform a usual launch of the dev environment.
 
 Will run json-server package for certain projects listed below.
 
-## Notes 1
+## Note 1:
 
 Basically has four projects:
 
@@ -29,8 +29,14 @@ Basically has four projects:
 
 This can be switched in the main.jsx file.
 
-## Notes 2
+## Note 2:
 
-In the 'rest-api' folder, you will need to provide your own API string from https://openweathermap.org - in a root '.env' file.
+In the root directory, you will need to provide your own API string from https://openweathermap.org - in a root '.env' file.
 
 Format 'VITE_SOME_KEY='
+
+## NOTE 3:
+
+As this is a Vite app, I hosted it on GitHub pages using this guide:
+
+https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3
