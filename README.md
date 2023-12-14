@@ -23,8 +23,8 @@ Will run json-server package for certain projects listed below.
 Basically has four projects:
 
 - App-countries <--default
-- App-courses (uses json-server; change root 'db-notes.json' to 'db.json')
-- App-notes
+- App-courses
+- App-notes (uses json-server; change root 'db-notes.json' to 'db.json')
 - App-phonebook (uses json-server; change root 'db-phonebook.json' to 'db.json')
 
 This can be switched in the main.jsx file.
