@@ -2,14 +2,14 @@
 
 Combined notes and exercises for https://fullstackopen.com/en/part2
 
-## Available Scripts
-
 Basically has four projects:
 
 - courses <-- tutorial
 - notes (uses json-server) <-- tutorial
 - phonebook (uses json-server) <-- exercise
 - countries <-- exercise (hosted)
+
+## Available Scripts
 
 In each root directory you can run:
 
